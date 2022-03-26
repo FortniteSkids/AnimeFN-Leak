@@ -1,0 +1,139 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_386_Athena_Commando_M_StreetOpsStealth",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "AthenaBackpack:BID_273_AssassinSuitCoin",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "Glider_Warthog",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Pickaxe": {
+    "ID": "AthenaPickaxe:Pickaxe_Lockjaw",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      "AthenaDance:EID_Floss",
+      "AthenaDance:EID_IceKing",
+      "AthenaDance:EID_TakeTheL",
+      "AthenaDance:EID_KPopDance03",
+      "AthenaDance:EID_Confused",
+      "AthenaDance:EID_TorchSnuffer"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": "BRSeason01",
+  "BannerColorTemplate": null,
+  "vbucks": 100000000,
+  "level": 100,
+  "battlestars": 9999999,
+  "alien_style_points": 696969,
+  "favorites": {}
+}
